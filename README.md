@@ -1,2 +1,2 @@
 # chynabot
-language independent NLP/ word embedding based chatbot.
+Language independent word embedding based chatbot.
